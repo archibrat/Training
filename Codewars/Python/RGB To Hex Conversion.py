@@ -10,4 +10,4 @@ def rgb(r, g, b):
         output += '{0:02X}'.format(r)
         output += '{0:02X}'.format(g)
         output += '{0:02X}'.format(b)
-        return output
+        return output 
